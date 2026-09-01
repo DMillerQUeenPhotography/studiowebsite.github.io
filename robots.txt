@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dmillerqueenphotography.github.io/studiowebsite.github.io/sitemap.xml
